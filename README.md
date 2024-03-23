@@ -8,6 +8,6 @@ Human is a custom backend developed in Golang specifically tailored for Fortnite
 - **Efficient Backend**: Developed in Golang, Human is optimized for performance and reliability, ensuring smooth operation even under heavy loads.
 - **Community-driven**: Human is open-source, welcoming contributions from the community to improve and enhance its functionality.
 
-## License
+## Support
 
-HumanFN is licensed under the [MIT License](LICENSE).
+For any questions, issues, or feature requests, please join the discord server [Discord](https://dsc.gg/hum1n).
