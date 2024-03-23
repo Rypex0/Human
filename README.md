@@ -10,4 +10,4 @@ Human is a custom backend developed in Golang specifically tailored for Fortnite
 
 ## Support
 
-For any questions, issues, or feature requests, please join the [Discord Server](https://dsc.gg/hum1n).
+For any questions, issues, or feature requests, please join the [discord server](https://dsc.gg/hum1n).
