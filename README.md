@@ -2,6 +2,8 @@
 
 Human is a custom backend developed in Golang specifically tailored for Fortnite private servers. Unlike traditional Fortnite servers, Human focuses solely on providing a streamlined experience by skipping the account system and directly taking players to the lobby.
 
+### -**NOTICE**: Human Is In W.I.P
+
 ## Features
 
 - **Simplified Experience**: Human eliminates the need for user accounts, allowing players to swiftly enter the lobby and begin their gaming session without any unnecessary steps.
