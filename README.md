@@ -1,4 +1,4 @@
-![1](https://cdn2.unrealengine.com/floorrestores-1024x512-9c6fcb596b31.jpg)
+![1](https://cdn2.unrealengine.com/15br-shockwave-ltm-motd-800x450-800x450-8183c5111fc3.jpg)
 
 **Human is a custom backend developed in Golang specifically tailored for Fortnite private servers. Unlike traditional Fortnite servers, Human focuses solely on providing a streamlined experience by skipping the account system and directly taking players to the lobby.**
 
