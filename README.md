@@ -2,7 +2,7 @@
 
 ![1](https://cdn2.unrealengine.com/15br-mandoltm-social-playlisttile-1024x512-1024x512-7a88bcc1902f.jpg)
 
-**Human is a custom backend developed in Golang specifically tailored for Fortnite private servers. Unlike traditional Fortnite servers, Human focuses solely on providing a streamlined experience by skipping the account system and directly taking players to the lobby.**
+### **Human is a custom backend developed in Golang specifically tailored for Fortnite private servers. Unlike traditional Fortnite servers, Human focuses solely on providing a streamlined experience by skipping the account system and directly taking players to the lobby.**
 
 ### **NOTICE**: Human Is In W.I.P
 
